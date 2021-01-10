@@ -19,11 +19,19 @@
     ],
     "require": {
         "php": "^7.4|^8.0",
+<<<<<<< HEAD
         "spatie/ray": "^1.3",
         "typisttech/imposter-plugin": "^0.6.2",
         "composer/installers": "~1.0"
     },
     "require-dev": {
+=======
+        "spatie/ray": "^1.3"
+    },
+    "require-dev": {
+        "typisttech/imposter-plugin": "^0.6.2",
+        "composer/installers": "^1.9",
+>>>>>>> upstream/master
         "phpunit/phpunit": "^9.5"
     },
     "autoload": {
